@@ -1,0 +1,12 @@
+.body {width:100%;
+		height: auto;
+		position:relative;
+		font: Gotham, sans-serif;}
+html {height:100%;
+		box-sizing:border-box;
+		font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"}
+*,
+*:before,
+*:after {box-sizing: inherit;}
+
+.img-circle {border-radius: 50%;}
